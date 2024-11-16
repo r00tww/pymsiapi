@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pymsiapi/__init__.py
+pymsiapi/pymsiapi.py
+pymsiapi.egg-info/PKG-INFO
+pymsiapi.egg-info/SOURCES.txt
+pymsiapi.egg-info/dependency_links.txt
+pymsiapi.egg-info/requires.txt
+pymsiapi.egg-info/top_level.txt
+tests/test_pymsiapi.py

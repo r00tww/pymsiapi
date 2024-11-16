@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: pymsiapi
+Version: 0.0.1
+Summary: A library for msii.xyz/api
+Home-page: https://github.com/r00tww/pymsiapi
+Author: r00tww
+Author-email: rootww@duck.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+# pymsiapi
+
+A library for https://msii.xyz/api.
+
+## Functions
+
+```python
+github("r00tww")
+steam("Age of History 3")
+random_person()
+npm_info("msiapi")
+```

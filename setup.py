@@ -9,4 +9,7 @@ setup(
     test_suite='tests',
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
+    author="r00tww",
+    author_email="rootww@duck.com",
+    url="https://github.com/r00tww/pymsiapi"
 )
